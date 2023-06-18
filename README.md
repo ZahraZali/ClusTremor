@@ -12,8 +12,6 @@ With ClusTremor, researchers and seismologists can leverage its unsupervised clu
 ## Link
 Preprint: https://www.researchsquare.com/article/rs-2716246/v1
 
-<<<<<<< HEAD
-=======
 ## ClusTremor Algorithm - Code Instruction
 
 The complete code for the ClusTremor algorithm can be found in the ClusTremor.ipynb notebook located in the src folder. This notebook includes the implementation of the algorithm, including autoencoder construction, clustering, fine-tuning, and evaluation.
@@ -32,7 +30,7 @@ Here's a breakdown of the ClusTremor algorithm code:
 
 6- Fine-tuning with Clustering Loss: The code fine-tunes the model parameters using a clustering loss function. This loss function encourages the model to optimize both the reconstruction accuracy and the quality of the clustering assignments.
 
->>>>>>> d65dcbf26a4f9a5b7b52c16d6a2ab3bbf22e6423
+
 ## Contact
 
 * Developer: Zahra Zali, zali@gfz-potsdam.de
