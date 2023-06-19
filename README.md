@@ -14,7 +14,7 @@ Preprint: https://www.researchsquare.com/article/rs-2716246/v1
 
 ## ClusTremor Algorithm - Code Instruction
 
-The complete code for the ClusTremor algorithm can be found in the ClusTremor.ipynb notebook located in the src folder. This notebook includes the implementation of the algorithm, including autoencoder construction, clustering, fine-tuning, and evaluation.
+The complete code for the ClusTremor algorithm can be found in the ClusTremor.ipynb notebook located in the src folder. This notebook includes the implementation of the algorithm, including autoencoder construction and evaluation, clustering, and fine-tuning.
 
 Here's a breakdown of the ClusTremor algorithm code:
 
