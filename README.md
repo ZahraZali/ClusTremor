@@ -12,7 +12,7 @@ To showcase the practical application of the ClusTremor algorithm, we provide an
 With ClusTremor, researchers and seismologists can leverage its unsupervised clustering capabilities to gain insights into the behavior and patterns of tremors, enabling a deeper understanding of seismic activity.
 
 ## Link
-Preprint: https://www.researchsquare.com/article/rs-2716246/v1
+Paper: https://www.nature.com/articles/s43247-023-01166-w
 
 ## ClusTremor Algorithm - Code Instruction
 
