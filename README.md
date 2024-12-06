@@ -12,8 +12,11 @@ To showcase the practical application of the ClusTremor algorithm, we provide an
 With ClusTremor, researchers and seismologists can leverage its unsupervised clustering capabilities to gain insights into the behavior and patterns of tremors, enabling a deeper understanding of seismic activity.
 
 ## Citation
-When using this model, please cite the following paper:
-Paper: https://www.nature.com/articles/s43247-023-01166-w
+When using this model, please cite the following:
+
+Zali, Z., Mousavi, S.M., Ohrnberger, M. et al. Tremor clustering reveals pre-eruptive signals and evolution of the 2021 Geldingadalir eruption of the Fagradalsfjall Fires, Iceland. Commun Earth Environ 5, 1 (2024). https://doi.org/10.1038/s43247-023-01166-w
+
+
 
 ## ClusTremor Algorithm - Code Instruction
 
