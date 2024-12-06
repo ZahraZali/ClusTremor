@@ -16,7 +16,7 @@ When using this model, please cite the following:
 
 Zali, Z., Mousavi, S.M., Ohrnberger, M. et al. Tremor clustering reveals pre-eruptive signals and evolution of the 2021 Geldingadalir eruption of the Fagradalsfjall Fires, Iceland. Commun Earth Environ 5, 1 (2024). https://doi.org/10.1038/s43247-023-01166-w
 
-
+Zahra Zali. (2023). ZahraZali/ClusTremor: ClusTremor (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.8386966
 
 ## ClusTremor Algorithm - Code Instruction
 
