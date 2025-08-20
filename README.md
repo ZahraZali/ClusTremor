@@ -40,7 +40,7 @@ Here's a breakdown of the ClusTremor algorithm code:
 
 ## Contact
 
-* Developer: Zahra Zali, zali@gfz-potsdam.de
+* Developer: Zahra Zali, zali@gfz.de
 
 ## License  
 
