@@ -41,3 +41,7 @@ Here's a breakdown of the ClusTremor algorithm code:
 ## Contact
 
 * Developer: Zahra Zali, zali@gfz-potsdam.de
+
+## License  
+
+This project is licensed under the [MIT License](LICENSE).
