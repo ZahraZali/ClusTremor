@@ -1,5 +1,6 @@
 # ClusTremor
 [![DOI](https://zenodo.org/badge/512606155.svg)](https://zenodo.org/badge/latestdoi/512606155)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ClusTremor is an algorithm specifically designed for unsupervised clustering of seismic data, with a focus on tremor signals. Leveraging the power of deep learning and clustering techniques, we employ a deep clustering approach to effectively cluster volcanic tremors.
 
